@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h1>Component 2</h1>
+    <h1>Goals</h1>
     <hr>
   </div>
 </template>
