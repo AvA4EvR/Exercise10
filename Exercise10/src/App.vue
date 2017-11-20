@@ -1,8 +1,6 @@
 <template>
   <div id="app">
     <app-header></app-header>
-    <h1>Routing</h1>
-    <hr>
     <router-view></router-view>
   </div>
 </template>
