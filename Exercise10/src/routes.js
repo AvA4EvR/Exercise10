@@ -5,5 +5,5 @@ import Header from './components/Header.vue';
 export const routes = [
   { path: '', component: Home},
   { path: '/user', component: User },
-  { path: '/headeer', component: Header}
+  { path: '/header', component: Header}
 ];
