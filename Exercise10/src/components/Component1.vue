@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>Component 1</h1>
+    <h1>About Me</h1>
     <hr>
+    <p>I like long walks on the beach, scubadiving, and tomato soup</p>
   </div>
 </template>
 
