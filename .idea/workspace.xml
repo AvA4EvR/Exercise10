@@ -1,33 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a41c37fb-cc45-4d53-ae14-70e316e12fe3" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/.babelrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/.editorconfig" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/dist/build.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/dist/build.js.map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/npm-debug.log.2646326289" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/package-lock.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/package.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/App.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/assets/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/Component1.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/Component2.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/Component3.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/Header.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/Home.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/user/User.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/user/UserDetail.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/user/UserEdit.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/components/user/UserStart.vue" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/src/routes.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Exercise10/webpack.config.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a41c37fb-cc45-4d53-ae14-70e316e12fe3" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -43,8 +17,8 @@
       <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+            <state relative-caret-position="374">
+              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -139,12 +113,12 @@
       <option name="presentableId" value="Default" />
       <updated>1511200714563</updated>
       <workItem from="1511200715831" duration="70000" />
-      <workItem from="1511294180426" duration="549000" />
+      <workItem from="1511294180426" duration="657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="619000" />
+    <option name="totallyTimeSpent" value="727000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-22" width="1936" height="1056" extended-state="6" />
@@ -181,16 +155,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="170">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        <state relative-caret-position="374">
+          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
           <folding />
         </state>
       </provider>
