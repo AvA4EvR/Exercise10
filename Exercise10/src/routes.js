@@ -11,5 +11,6 @@ export const routes = [
   { path: '/header', component: Header},
   { path: '/component1', component: Component1},
   { path: '/component2', name: 'goals', component: Component2},
-  { path: '/component3', component: Component3}
+  { path: '/component3', component: Component3},
+  { path: '*', redirect: '/'}
 ];
